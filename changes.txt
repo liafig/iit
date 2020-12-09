@@ -1,2 +1,2 @@
 Document for pull.
-Change 2 for merge.
+Change 1 for merge.
